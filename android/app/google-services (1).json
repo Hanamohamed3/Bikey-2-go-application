@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "57669454174",
+    "project_id": "bikelast-21417",
+    "storage_bucket": "bikelast-21417.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:57669454174:android:fe76a36952a2a47572a7cf",
+        "android_client_info": {
+          "package_name": "com.example.bikey_last"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYsDtN1a1GNjgi6zDvebYaCDXD-j5dEEA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
